@@ -1,2 +1,5 @@
 this is file b.
 this file is made to test git functions.
+
+
+test git diff
